@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# DrDekho-project
-it is a healthcare project
-=======
 # Dr Khojo (Dr Dekho) — Healthcare Discovery & Booking Platform
 
 A modern, mobile-first healthcare discovery, clinic appointment booking, and emergency care application built with Next.js 14 App Router, TypeScript, and Tailwind CSS.
@@ -29,4 +25,3 @@ npm run test
 npm run build
 npm start
 ```
->>>>>>> b70e21f (Initial commit: Dr Khojo healthcare discovery & booking platform)
