@@ -54,8 +54,8 @@ export function Logo({
     <Image
       src={src}
       alt="Dr Khojo - Find. Compare. Book."
-      width={849}
-      height={675}
+      width={1024}
+      height={682}
       quality={100}
       priority={priority}
       className={`${sizeClasses} w-auto object-contain select-none transition-transform duration-200 ${className}`.trim()}
