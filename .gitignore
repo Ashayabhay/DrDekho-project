@@ -1,31 +1,11 @@
-<<<<<<< HEAD
-# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
-
-# dependencies
-=======
 # Dependencies
->>>>>>> b70e21f (Initial commit: Dr Khojo healthcare discovery & booking platform)
 /node_modules
 /.pnp
 .pnp.js
 
-<<<<<<< HEAD
-# testing
+# Testing
 /coverage
 
-# next.js
-/.next/
-/out/
-
-# production
-/build
-
-# misc
-.DS_Store
-*.pem
-
-# debug
-=======
 # Next.js Build Output (CRITICAL: Do not commit to GitHub)
 /.next/
 /out/
@@ -40,25 +20,11 @@
 .vercel
 
 # Logs
->>>>>>> b70e21f (Initial commit: Dr Khojo healthcare discovery & booking platform)
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
-<<<<<<< HEAD
-# local env files
-.env*.local
-.env
-
-# vercel
-.vercel
-
-# typescript
-*.tsbuildinfo
-next-env.d.ts
-=======
 # OS & Editor files
 .DS_Store
 Thumbs.db
 *.tsbuildinfo
->>>>>>> b70e21f (Initial commit: Dr Khojo healthcare discovery & booking platform)
